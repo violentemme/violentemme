@@ -1,8 +1,8 @@
 - 👋🏻 I’m @violentemme
-- 🌚 I’m interested in figuring out how the heck computers work.
-- 🧠 I have recently pivoted to learning Android development and I quite like it.
+- 🌚 I’m interested in figuring out how the heck to communicate with computers.
+- 🧠 I have decided to finally stop lollygagging and just pursue my end goal of learning the fundamentals of cybersecurity already.
 - ⚒ I’m looking to collaborate on general educational nonsense.
-- 🧭 How to reach me: discord @violentemme 
+- 🧭 How to reach me: discord @violentemme or violent.emme.93@gmail.com
 
 <!---
 violentemme/violentemme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
