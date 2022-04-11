@@ -1,4 +1,4 @@
-- 👋🏻 I’m @violentemme
+- 👋🏻 I’m Em
 - 🌚 I’m interested in figuring out how the heck to communicate with computers.
 - 🧠 I have decided to finally stop lollygagging and just pursue my end goal of learning the fundamentals of cybersecurity already.
 - ⚒ I’m looking to collaborate on general educational nonsense.
